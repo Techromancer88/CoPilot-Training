@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "fastapi",
+        "httpx",
+        "Mergington",
+        "pytest",
+        "uvicorn",
+        "watchfiles"
+    ],
+    "python.testing.pytestArgs": [
+        "src"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
